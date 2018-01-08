@@ -1,7 +1,9 @@
 # Background
-Documentation specifying the purpose and application of the bioreactor designed by Spira Inc
+Documentation specifying the purpose and application of an algae protein production system designed by Spira Inc.
 
 # Specifications
+
+
 
 # Prototyping
 
